@@ -150,8 +150,10 @@ main{
     padding-left: 20px;
 }
 
-.mensajeFinal:focus {
-    outline: none;
+footer {
+    position: absolute;
+    bottom: 0;
+    margin-left: 40px;
 }
 
 @media screen and (max-width: 800px) {
